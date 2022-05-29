@@ -1,6 +1,18 @@
+/* GOOGLE FONTS */
+
+*,
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
+}
+
+.card-title,
+.col h2 {
+  font-weight: bold;
 }
 
 #projects {
